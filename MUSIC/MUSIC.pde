@@ -1,1 +1,12 @@
-//my legs hurt and we're taking 30 minutes to close an application
+//yippeeeeeeeeeee
+//Global Variables
+//
+void setup () {} //End setup
+//
+void draw() {} //End draw
+//
+void keyPressed() {} //End keyPressed
+//
+void mousePressed() {} //End mousePressed
+//
+// End MAIN Program
