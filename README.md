@@ -4,6 +4,6 @@ learning to make a music player for class yippeeeeeee
 - [ ] musicplayer
 - [ ] HUD
 - [x] <del> become god <del>
-- [ ] sleep
-- [ ] go home for the wekend
+- [x] sleep
+- [x] go home for the wekend
 - [ ] use pesticide
