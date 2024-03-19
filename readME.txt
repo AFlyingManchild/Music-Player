@@ -11,7 +11,7 @@ that part of the page)
 required pages:
 [ ]index (lowercase required, dont do Index or INDEX or InDeX mk?)
 [ ]Info of You (who you are, YOU CAN LIEEEE HAHAHAHAHAHAHAHA)
-[ ]deail of material (music player desc)
+[ ]detail of material (music player desc)
 
 optional pages:
 [ ]why my music is grrrrrrreat! fuck
